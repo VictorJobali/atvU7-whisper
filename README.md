@@ -59,4 +59,3 @@ No topo do `transcrever.py` você pode trocar:
 ## Problemas comuns
 - **`ffmpeg not found`**: instale o ffmpeg e reinicie o terminal.
 - **Erro de conexão com o Ollama**: abra o app do Ollama (ou rode `ollama serve`).
-- **Aviso `FP16 is not supported on CPU`**: é normal, pode ignorar.
